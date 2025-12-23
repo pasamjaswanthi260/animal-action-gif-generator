@@ -1,2 +1,15 @@
-# animal-action-gif-generator
-A Python project that creates animated GIFs by extracting and sequencing action frames from an image using the Pillow library.
+# Animal Action GIF Generator
+
+This project creates an animated GIF of a dog using an image.
+
+# Demo
+![Dog GIF](dog_gif/dog.gif)
+
+## Folder Structure
+- dog_gif
+  - code file
+  - dog image
+  - dog gif
+
+# Purpose
+This is a mini project created for learning and practice.
