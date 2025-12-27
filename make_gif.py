@@ -8,7 +8,7 @@ width, height = img.size
 frames = []
 frames_count = 4  
 
-frame_width = width // frames_count
+frame_width = width 
 
 for i in range(frames_count):
     left = i * frame_width
@@ -25,3 +25,4 @@ frames[0].save(
 )
 
 print("GIF created successfully")
+
